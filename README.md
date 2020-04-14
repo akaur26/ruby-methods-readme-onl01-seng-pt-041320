@@ -1,4 +1,4 @@
-ir# Methods in Ruby
+learnir# Methods in Ruby
 
 ## Overview
 
